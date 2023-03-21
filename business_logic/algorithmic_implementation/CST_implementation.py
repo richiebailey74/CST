@@ -1,3 +1,5 @@
+import numpy as np
+
 class CST:
     
     def __init__(self):
